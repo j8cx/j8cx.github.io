@@ -9,7 +9,7 @@
       "binding": "DB",
       "database_name": "views",
       // Dán "Database ID" của D1 vào chỗ DAN-ID-VAO-DAY (giữ nguyên dấu ngoặc kép)
-      "database_id": "DAN-ID-VAO-DAY"
+      "database_id": "2641969d-1bd8-47d9-84b2-50c50908e4ba"
     }
   ]
 }
